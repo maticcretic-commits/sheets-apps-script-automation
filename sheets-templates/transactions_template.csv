@@ -1,0 +1,6 @@
+Date,Type,Category,Amount,Note,CreatedBy
+2026-09-01,Income,Revenue,85000,Client invoice #1042 paid,nitesh@example.com
+2026-09-03,Expense,Rent,22000,Office rent — September,nitesh@example.com
+2026-09-05,Expense,Transport,1450,Uber rides for client visits,nitesh@example.com
+2026-09-08,Expense,Food,3200,Team lunch + groceries,nitesh@example.com
+2026-09-12,Expense,Utilities,2100,Electricity + internet bill,nitesh@example.com
